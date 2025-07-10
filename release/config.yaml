@@ -8,7 +8,7 @@
 # important: slider indexes start at 0, regardless of which analog pins you're using!
 slider_mapping:
   0: SteelSeries Sonar - Aux (SteelSeries Sonar Virtual Audio Device)
-#  1: SteelSeries Sonar -  (SteelSeries Sonar Virtual Audio Device)
+  1: system
   2: SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)
   3: SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
   4: SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device)
